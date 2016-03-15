@@ -1,7 +1,7 @@
 ---
 layout: post          #important: don't change this
 title: "Name of post like this"
-date: yyyy-mm-dd hh:mm:ss
+date: 2016-03-16 hh:21:30
 author: Name
 categories:
 - blog                #important: leave this here
