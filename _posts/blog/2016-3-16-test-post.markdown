@@ -11,4 +11,4 @@ img: post03.jpg
 thumb: thumb03.jpg
 ---
 #This is a test
-##This is a test
+##This is a test.
