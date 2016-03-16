@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Template post"
-date: 2016-03-16 08:23:46
+date: 2016-03-16 00:01:46
 author: John McKenna
 categories:
 - blog
