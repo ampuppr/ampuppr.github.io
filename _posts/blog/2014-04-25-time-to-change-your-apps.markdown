@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Time to change your text
-date: {}
+date: 2016-03-16T10:09:07.000Z
 author: Admin
 categories: 
   - blog
